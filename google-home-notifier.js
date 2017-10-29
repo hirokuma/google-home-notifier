@@ -4,7 +4,7 @@ var deviceAddress;
 var language;
 var talkSpeed;
 
-var device = function(name, lang = 'en') {
+var device = function(name, lang) {
     device = name;
     language = lang;
     talkSpeed = 1;
