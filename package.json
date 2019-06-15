@@ -15,6 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "castv2-client": "^1.1.2",
-    "google-tts-api": "https://github.com/darrencruse/google-tts/tarball/british-voice"
+    "google-tts-api": "^0.0.4"
   }
 }
